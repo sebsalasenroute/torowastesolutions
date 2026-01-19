@@ -413,6 +413,18 @@ a {
   padding: 20px;
   text-align: center;
   font-weight: 500;
+  text-decoration: none;
+  color: var(--text-dark);
+  transition: all 0.2s ease;
+  display: block;
+}
+
+a.area:hover {
+  background: var(--primary-color);
+  color: var(--white);
+  border-color: var(--primary-color);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(46, 90, 60, 0.2);
 }
 
 /* Contact Page */
