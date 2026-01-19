@@ -127,7 +127,7 @@ img {
 }
 
 .logo img {
-  height: 60px;
+  height: 90px;
   width: auto;
 }
 
@@ -137,7 +137,7 @@ img {
 
 @media (max-width: 768px) {
   .logo img {
-    height: 50px;
+    height: 70px;
   }
 }
 
