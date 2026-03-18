@@ -127,17 +127,29 @@ img {
 }
 
 .logo img {
-  height: 90px;
+  height: 80px;
   width: auto;
+  border-radius: 8px;
+  object-fit: contain;
 }
 
 .logo-text {
   display: none;
 }
 
+/* Footer logo styling */
+.footer .logo img {
+  height: 70px;
+  border-radius: 8px;
+}
+
 @media (max-width: 768px) {
   .logo img {
-    height: 70px;
+    height: 60px;
+  }
+
+  .footer .logo img {
+    height: 56px;
   }
 }
 
