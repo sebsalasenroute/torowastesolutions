@@ -24,7 +24,7 @@ Add these images to the `/images` folder:
 
 | Filename | Description | Recommended Size |
 |----------|-------------|------------------|
-| `logo.png` | Company logo | 200x80px (or proportional) |
+| `tws-logo.png` | Company logo | 200x80px (or proportional) |
 | `favicon.png` | Browser tab icon | 32x32px |
 | `hero.jpg` | Homepage hero background | 1920x1080px (landscape) |
 | `service-residential.jpg` | Residential service | 800x600px |
@@ -69,7 +69,7 @@ toro-waste/
 ├── js/
 │   └── main.js         # Mobile menu & form handling
 └── images/
-    ├── logo.png        # (add your logo)
+    ├── tws-logo.png        # (add your logo)
     ├── favicon.png     # (add favicon)
     ├── hero.jpg        # (add hero image)
     └── service-*.jpg   # (add service images)
